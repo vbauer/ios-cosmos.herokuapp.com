@@ -51,6 +51,8 @@ categories:
           
     - name: Crash Reports
       projects:
+        - name: Bugsense
+          url: https://www.bugsense.com
         - name: Crashlytics
           url: http://try.crashlytics.com
         - name: HockeyKit
@@ -59,8 +61,6 @@ categories:
           url: https://www.plcrashreporter.org
         - name: QuincyKit
           url: http://quincykit.net
-        - name: HockeyKit
-          url: http://hockeykit.net/
 
     - name: Curl/Flip Effects
       projects:
