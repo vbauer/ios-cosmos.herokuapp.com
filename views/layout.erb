@@ -25,24 +25,26 @@
 
 <body>
     
-    <nav class="top-bar" data-topbar>
-        <ul class="title-area">
-            <li class="name"><h1><a href="/">The iOS Cosmos</a></h1></li>
-            <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-        </ul>
-
-        <section class="top-bar-section">
-            <ul class="right">
-                <% if defined?(categories) %>
-                <li class="<%='active' if type == :free%>"><a href="/">Free (<%= free %>)</a></li>
-                <li class="<%='active' if type == :paid%>"><a href="/paid">Paid (<%= paid %>)</a></li>
-                <% end %>
-                <li><a href="https://github.com/vbauer/ios-cosmos.com" title="Library suggestions can be submitted" class="suggest">Suggest project</a></li>
-                <li><a href="http://android-arsenal.com" title="Meanwhile in a parallel universe...">The Android Arsenal</a></li>
+    <div class="fixed">
+        <nav class="top-bar" data-topbar>
+            <ul class="title-area">
+                <li class="name"><h1><a href="/">The iOS Cosmos</a></h1></li>
+                <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
             </ul>
-        </section>
-    </nav>
 
+            <section class="top-bar-section">
+                <ul class="right">
+                    <% if defined?(categories) %>
+                    <li class="<%='active' if type == :free%>"><a href="/">Free (<%= free %>)</a></li>
+                    <li class="<%='active' if type == :paid%>"><a href="/paid">Paid (<%= paid %>)</a></li>
+                    <% end %>
+                    <li><a href="https://github.com/vbauer/ios-cosmos.com" title="Library suggestions can be submitted" class="suggest">Suggest project</a></li>
+                    <li><a href="http://android-arsenal.com" title="Meanwhile in a parallel universe...">The Android Arsenal</a></li>
+                </ul>
+            </section>
+        </nav>
+    </div>
+    
     <div class="container">
         <%= yield %>
     </div>
