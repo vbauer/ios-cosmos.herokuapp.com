@@ -1,2 +1,112 @@
 
 categories:
+
+    - name: Caching
+      projects:
+        - name: rs/SDURLCache
+          url: https://github.com/rs/SDURLCache
+        - name: steipete/SDURLCache
+          url: https://github.com/steipete/SDURLCache
+          
+    - name: Carousels
+      projects:
+        - name: iCarousel
+          url: https://github.com/nicklockwood/iCarousel
+          
+    - name: Crash Reports
+      projects:
+        - name: HockeyKit
+          url: http://hockeykit.net
+          
+    - name: Database
+      projects:
+        - name: FMDB
+          url: https://github.com/ccgus/fmdb
+        - name: MagicalRecord
+          url: https://github.com/magicalpanda/MagicalRecord
+          
+    - name: Date & Time
+      projects:
+        - name: ISO 8601 date formatter
+          url: http://boredzo.org/iso8601unparser/
+          
+    - name: Debugging
+      projects:
+        - name: DCIntrospect
+          url: https://github.com/domesticcatsoftware/DCIntrospect
+          
+    - name: Dependency Managment
+      projects:
+        - name: CocoaPods
+          url: http://cocoapods.org
+
+    - name: Graphics
+      projects:
+        - name: core-plot
+          url: https://code.google.com/p/core-plot/
+          
+    - name: Image Loaders
+      projects:
+        - name: SDWebImage
+          url: https://github.com/rs/SDWebImage
+
+    - name: Image Processing
+      projects:
+        - name: CoreImage
+          url: https://developer.apple.com/library/mac/documentation/GraphicsImaging/Reference/CoreImagingRef/_index.html
+        - name: GPUImage
+          url: https://github.com/BradLarson/GPUImage
+
+    - name: JSON
+      projects:
+        - name: JSONKit
+          url: https://github.com/johnezang/JSONKit
+        - name: NSJSONSerialization
+          url: https://developer.apple.com/library/ios/documentation/foundation/reference/nsjsonserialization_class/Reference/Reference.html
+          
+    - name: Logging
+      projects:
+        - name: CocoaLumberjack
+          url: https://github.com/CocoaLumberjack/CocoaLumberjack
+
+    - name: Networking
+      projects:
+        - name: AFNetworking
+          url: https://github.com/afnetworking/afnetworking
+          
+    - name: Progress Indicators
+      projects:
+        - name: MBProgressHUD
+          url: https://github.com/jdg/MBProgressHUD
+          
+    - name: REST
+      projects:
+        - name: RestKit
+          url: http://restkit.org
+    
+    - name: Sliding Panels
+      projects:
+        - name: ViewDeck
+          url: https://github.com/Inferis/ViewDeck
+          
+    - name: SVG
+      projects:
+        - name: SVGKit
+          url: https://github.com/reklis/SVGKit
+        - name: SVGQuartzRenderer
+          url: https://github.com/splashdust/SVGQuartzRenderer
+        
+    - name: Testing
+      projects:
+        - name: TestFlight
+          url: https://testflightapp.com
+          
+    - name: WebSockets
+      projects:
+        - name: SocketRocket
+          url: https://github.com/square/SocketRocket
+    
+    - name: XML
+      projects:
+        - name: TouchXML
+          url: https://github.com/TouchCode/TouchXML

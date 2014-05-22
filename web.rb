@@ -28,7 +28,6 @@ end
 class DataContext
     attr_reader :free, :paid
 
-#    <li>Free <span class="badge"><%= data.free.count %></span></li>
     def initialize
         @free = ProjectsInfo.new("free.yml")
         @paid = ProjectsInfo.new("paid.yml")
@@ -36,11 +35,12 @@ class DataContext
 end
 
 class Application < Sinatra::Base
-    configure do
+    configure :production, :development do
         set :public_folder, File.dirname(__FILE__) + '/public'
         set :sessions, false
         set :start_time, Time.now
         set :data, DataContext.new
+        enable :logging
         
         use Rack::Cache
         use Rack::ConditionalGet
