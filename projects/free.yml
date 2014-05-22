@@ -1,6 +1,11 @@
 
 categories:
 
+    - name: Animations
+      projects:
+        - name: Canvas
+          url: https://github.com/CanvasPod/Canvas
+          
     - name: Analytics
       projects:
         - name: Google Analytics
@@ -35,15 +40,33 @@ categories:
         - name: TWSReleaseNotesView
           url: https://github.com/iGriever/TWSReleaseNotesView/
 
+    - name: Cloud Storages
+      projects:
+        - name: Dropbox SDK
+          url: https://www.dropbox.com/developers/core/sdks/ios
+          
     - name: Code Documentation
       projects:
         - name: appledoc
           url: https://github.com/tomaz/appledoc
         - name: CocoaDocs
           url: http://cocoadocs.org
+
+    - name: Color Pickers
+      projects:
+        - name: Color Picker
+          url: http://kartech.github.io/colorpicker/
+        - name: iphone-color-picker
+          url: https://code.google.com/p/iphone-color-picker/
+        - name: kartech/colorpicker
+          url: https://github.com/kartech/colorpicker
+        - name: RSColorPicker
+          url: https://github.com/RSully/RSColorPicker
           
     - name: Crash Reports
       projects:
+        - name: BugshotKit
+          url: https://github.com/marcoarment/BugshotKit
         - name: Crashlytics
           url: http://try.crashlytics.com
         - name: HockeyKit
@@ -81,6 +104,11 @@ categories:
         - name: CocoaPods
           url: http://cocoapods.org
 
+    - name: Effects
+      projects:
+        - name: BlurryModalSegue
+          url: https://github.com/Citrrus/BlurryModalSegue
+          
     - name: Formatting
       projects:
         - name: FormatterKit
@@ -104,6 +132,8 @@ categories:
       projects:
         - name: Cocos2d
           url: http://www.cocos2d-iphone.org
+        - name: Sparrow
+          url: http://gamua.com/sparrow/
           
     - name: Image Loaders
       projects:
@@ -121,6 +151,8 @@ categories:
 
     - name: JSON
       projects:
+        - name: json-framework
+          url: https://github.com/stig/json-framework/
         - name: JSONKit
           url: https://github.com/johnezang/JSONKit
         - name: NSJSONSerialization
@@ -196,6 +228,11 @@ categories:
         - name: RestKit
           url: http://restkit.org
     
+    - name: Security
+      projects:
+        - name: oauthconsumer
+          url: https://code.google.com/p/oauthconsumer/
+          
     - name: Sliding Panels
       projects:
         - name: ViewDeck
@@ -241,14 +278,16 @@ categories:
 
     - name: Toolkits
       projects:
+        - name: APUtils
+          url: https://github.com/andrei512/APUtils
+        - name: BlocksKit
+          url: https://github.com/zwaldowski/BlocksKit
         - name: NimbusKit
           url: https://github.com/jverkoey/nimbus
         - name: SSToolkit
           url: https://github.com/soffes/sstoolkit
-        - name: BlocksKit
-          url: https://github.com/zwaldowski/BlocksKit
-        - name: APUtils
-          url: https://github.com/andrei512/APUtils
+        - name: UI7Kit
+          url: https://github.com/youknowone/UI7Kit
 
     - name: Tools
       projects:
