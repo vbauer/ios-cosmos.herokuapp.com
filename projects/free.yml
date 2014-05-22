@@ -10,6 +10,13 @@ categories:
       projects:
         - name: Google Analytics
           url: https://developers.google.com/analytics/devguides/collection/ios/resources
+    
+    - name: Audio
+      projects:
+        - name: GVMusicPlayerController
+          url: https://github.com/gangverk/GVMusicPlayerController
+        - name: MusicPlayerViewController
+          url: https://github.com/BeamApp/MusicPlayerViewController
           
     - name: BDD
       projects:
@@ -22,7 +29,16 @@ categories:
       projects:
         - name: BlurryModalSegue
           url: https://github.com/Citrrus/BlurryModalSegue
-
+          
+    - name: Blocks
+      projects: 
+        - name: BlocksKit
+          url: https://github.com/zwaldowski/BlocksKit
+        - name: MTBlockTableView
+          url: https://github.com/mysterioustrousers/MTBlockTableView
+        - name: UIAlertView-Blocks
+          url: https://github.com/jivadevoe/UIAlertView-Blocks
+          
     - name: Browsers
       projects:
         - name: TSMiniWebBrowser
@@ -83,8 +99,6 @@ categories:
           url: https://github.com/marcoarment/BugshotKit
         - name: Crashlytics
           url: http://try.crashlytics.com
-        - name: HockeyKit
-          url: http://hockeykit.net
         - name: PLCrashReporter
           url: https://www.plcrashreporter.org
         - name: QuincyKit
@@ -94,20 +108,21 @@ categories:
       projects:
         - name: XBPageCurl
           url: https://github.com/xissburg/XBPageCurl
-          
+    
     - name: Database
       projects:
         - name: CoreData
           url: https://developer.apple.com/library/mac/documentation/cocoa/conceptual/coredata/cdProgrammingGuide.html
+        - name: FileMD5Hash
+          url: https://github.com/JoeKun/FileMD5Hash
         - name: FMDB
           url: https://github.com/ccgus/fmdb
+        - name: iActiveRecord
+          url: https://github.com/AlexDenisov/iActiveRecord
         - name: MagicalRecord
           url: https://github.com/magicalpanda/MagicalRecord
-          
-    - name: Date & Time
-      projects:
-        - name: ISO 8601 date formatter
-          url: http://boredzo.org/iso8601unparser/
+        - name: NLCoreData
+          url: https://github.com/jksk/NLCoreData
           
     - name: Debugging
       projects:
@@ -127,6 +142,8 @@ categories:
       projects:
         - name: FormatterKit
           url: https://github.com/mattt/FormatterKit
+        - name: ISO 8601 date formatter
+          url: http://boredzo.org/iso8601unparser/
         - name: TransformerKit
           url: https://github.com/mattt/TransformerKit
 
@@ -169,6 +186,10 @@ categories:
           url: https://developer.apple.com/library/mac/documentation/GraphicsImaging/Reference/CoreImagingRef/_index.html
         - name: GPUImage
           url: https://github.com/BradLarson/GPUImage
+        - name: NYXImagesKit
+          url: https://github.com/Nyx0uf/NYXImagesKit
+        - name: XBImageFilters
+          url: https://github.com/xissburg/XBImageFilters
 
     - name: JSON
       projects:
@@ -200,6 +221,10 @@ categories:
       projects:
         - name: CocoaLumberjack
           url: https://github.com/CocoaLumberjack/CocoaLumberjack
+        - name: LibComponentLogging-Core
+          url: https://github.com/aharren/LibComponentLogging-Core/
+        - name: NSLogger
+          url: https://github.com/fpillet/NSLogger
           
     - name: Maps
       projects:
@@ -207,14 +232,16 @@ categories:
           url: https://github.com/applidium/ADClusterMapView
         - name: CCHMapClusterController
           url: https://github.com/choefele/CCHMapClusterController/
-        - name: REMarkerClusterer
-          url: https://github.com/romaonthego/REMarkerClusterer
         - name: Google Maps SDK
           url: https://developers.google.com/maps/documentation/ios/start
-        - name: Yandex Map Kit
-          url: https://github.com/yandexmobile/yandexmapkit-ios
         - name: MapBox
           url: https://www.mapbox.com/mapbox-ios-sdk/
+        - name: REMarkerClusterer
+          url: https://github.com/romaonthego/REMarkerClusterer
+        - name: VPPMap
+          url: https://github.com/vicpenap/VPPMap
+        - name: Yandex Map Kit
+          url: https://github.com/yandexmobile/yandexmapkit-ios
 
     - name: Mathematics
       projects:
@@ -225,8 +252,6 @@ categories:
       projects:
         - name: AFNetworking
           url: https://github.com/afnetworking/afnetworking
-        - name: SDWebImage
-          url: https://github.com/rs/SDWebImage
         - name: SocketRocket
           url: https://github.com/square/SocketRocket
         - name: CocoaAsyncSocket
@@ -277,10 +302,14 @@ categories:
     
     - name: Social Networks
       projects:
+        - name: AFAmazonS3Client
+          url: https://github.com/AFNetworking/AFAmazonS3Client
         - name: DETweetComposeViewController
           url: https://github.com/doubleencore/DETweetComposeViewController
         - name: Facebook SDK for iOS
           url: https://github.com/facebook/facebook-ios-sdk
+        - name: HCYoutubeParser
+          url: https://github.com/hellozimi/HCYoutubeParser
         - name: ShareKit
           url: http://getsharekit.com
         - name: Unofficial Twitter SDK
@@ -323,13 +352,13 @@ categories:
       projects:
         - name: TestFlight
           url: https://testflightapp.com
+        - name: HockeyKit
+          url: http://hockeykit.net
 
     - name: Toolkits
       projects:
         - name: APUtils
           url: https://github.com/andrei512/APUtils
-        - name: BlocksKit
-          url: https://github.com/zwaldowski/BlocksKit
         - name: NimbusKit
           url: https://github.com/jverkoey/nimbus
         - name: SSToolkit
