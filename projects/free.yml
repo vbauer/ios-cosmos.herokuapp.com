@@ -17,7 +17,12 @@ categories:
           url: https://github.com/kiwi-bdd/Kiwi
         - name: Specta
           url: https://github.com/specta/specta
-          
+
+    - name: Blur Effects
+      projects:
+        - name: BlurryModalSegue
+          url: https://github.com/Citrrus/BlurryModalSegue
+
     - name: Browsers
       projects:
         - name: TSMiniWebBrowser
@@ -30,6 +35,13 @@ categories:
         - name: steipete/SDURLCache
           url: https://github.com/steipete/SDURLCache
           
+    - name: Calendars
+      projects:
+        - name: Kal
+          url: https://github.com/klazuka/Kal
+        - name: ABCalendarPicker
+          url: https://github.com/k06a/ABCalendarPicker
+
     - name: Carousels
       projects:
         - name: iCarousel
@@ -65,6 +77,8 @@ categories:
           
     - name: Crash Reports
       projects:
+        - name: Bugsense
+          url: https://www.bugsense.com
         - name: BugshotKit
           url: https://github.com/marcoarment/BugshotKit
         - name: Crashlytics
@@ -75,6 +89,11 @@ categories:
           url: https://www.plcrashreporter.org
         - name: QuincyKit
           url: http://quincykit.net
+
+    - name: Curl/Flip Effects
+      projects:
+        - name: XBPageCurl
+          url: https://github.com/xissburg/XBPageCurl
           
     - name: Database
       projects:
@@ -104,11 +123,6 @@ categories:
         - name: CocoaPods
           url: http://cocoapods.org
 
-    - name: Effects
-      projects:
-        - name: BlurryModalSegue
-          url: https://github.com/Citrrus/BlurryModalSegue
-          
     - name: Formatting
       projects:
         - name: FormatterKit
@@ -125,6 +139,8 @@ categories:
       projects:
         - name: core-plot
           url: https://code.google.com/p/core-plot/
+        - name: JBChartView
+          url: https://github.com/Jawbone/JBChartView
         - name: iOSPlot
           url: https://github.com/honcheng/iOSPlot
 
@@ -134,7 +150,12 @@ categories:
           url: http://www.cocos2d-iphone.org
         - name: Sparrow
           url: http://gamua.com/sparrow/
-          
+
+    - name: IDE
+      projects:
+        - name: JetBrains AppCode
+          url: http://www.jetbrains.com/objc/
+
     - name: Image Loaders
       projects:
         - name: FastImageCache
@@ -162,17 +183,19 @@ categories:
       projects:
         - name: SSKeychain
           url: https://github.com/soffes/sskeychain
-    
-    - name: Labels
+
+    - name: KVO
       projects:
-        - name: TTTAttributedLabel
-          url: https://github.com/mattt/TTTAttributedLabel
-          
+        - name: ReactiveCocoa
+          url: https://github.com/ReactiveCocoa/ReactiveCocoa
+
     - name: Layouts
       projects:
         - name: Masonry
           url: https://github.com/cloudkite/Masonry
-          
+        - name: NUI
+          url: https://github.com/noveogroup/ios-nui
+
     - name: Logging
       projects:
         - name: CocoaLumberjack
@@ -186,7 +209,13 @@ categories:
           url: https://github.com/choefele/CCHMapClusterController/
         - name: REMarkerClusterer
           url: https://github.com/romaonthego/REMarkerClusterer
-          
+        - name: Google Maps SDK
+          url: https://developers.google.com/maps/documentation/ios/start
+        - name: Yandex Map Kit
+          url: https://github.com/yandexmobile/yandexmapkit-ios
+        - name: MapBox
+          url: https://www.mapbox.com/mapbox-ios-sdk/
+
     - name: Mathematics
       projects:
         - name: DDMathParser
@@ -196,6 +225,10 @@ categories:
       projects:
         - name: AFNetworking
           url: https://github.com/afnetworking/afnetworking
+        - name: SDWebImage
+          url: https://github.com/rs/SDWebImage
+        - name: SocketRocket
+          url: https://github.com/square/SocketRocket
         - name: CocoaAsyncSocket
           url: https://github.com/robbiehanson/CocoaAsyncSocket
         - name: Reachability
@@ -207,6 +240,8 @@ categories:
           url: http://libharu.org
         - name: PDFKitten
           url: https://github.com/KurtCode/PDFKitten
+        - name: iPhonePDF
+          url: https://github.com/akisute/iPhonePDF
           
     - name: Progress Indicators
       projects:
@@ -217,7 +252,9 @@ categories:
       projects:
         - name: SVPullToRefresh
           url: https://github.com/samvermette/SVPullToRefresh
-    
+        - name: EGOTableViewPullRefresh
+          url: https://github.com/enormego/EGOTableViewPullRefresh
+
     - name: Ratings
       projects:
         - name: iRate
@@ -248,6 +285,8 @@ categories:
           url: http://getsharekit.com
         - name: Unofficial Twitter SDK
           url: https://github.com/lloydsparkes/unoffical-twitter-sdk
+        - name: VKontakte
+          url: https://github.com/VKCOM/vk-ios-sdk
           
     - name: SVG
       projects:
@@ -255,7 +294,7 @@ categories:
           url: https://github.com/reklis/SVGKit
         - name: SVGQuartzRenderer
           url: https://github.com/splashdust/SVGQuartzRenderer
-        
+
     - name: Testing
       projects:
         - name: Bwoken
@@ -270,6 +309,15 @@ categories:
           url: https://github.com/erikdoe/ocmock
         - name: Zucchini
           url: http://www.zucchiniframework.org
+
+    - name: Text
+      projects:
+        - name: TTTAttributedLabel
+          url: https://github.com/mattt/TTTAttributedLabel
+        - name: OHAttributedLabel
+          url: https://github.com/AliSoftware/OHAttributedLabel
+        - name: DTCoreText
+          url: https://github.com/Cocoanetics/DTCoreText
 
     - name: Testing Platforms
       projects:
