@@ -1,6 +1,20 @@
 
 categories:
 
+    - name: 2D Game Engines
+      projects:
+        - name: Cocos2d
+          url: http://www.cocos2d-iphone.org
+        - name: Sparrow
+          url: http://gamua.com/sparrow/
+          
+    - name: 3D Game Engines
+      projects:
+        - name: Bullet
+          url: https://code.google.com/p/bullet/
+        - name: SIO2
+          url: http://sio2interactive.com
+
     - name: Animations
       projects:
         - name: Canvas
@@ -69,11 +83,6 @@ categories:
           url: https://github.com/klazuka/Kal
         - name: ABCalendarPicker
           url: https://github.com/k06a/ABCalendarPicker
-
-    - name: Carousels
-      projects:
-        - name: iCarousel
-          url: https://github.com/nicklockwood/iCarousel
           
     - name: Changelog
       projects:
@@ -104,7 +113,16 @@ categories:
           url: https://github.com/kartech/colorpicker
         - name: RSColorPicker
           url: https://github.com/RSully/RSColorPicker
-          
+
+    - name: Cover Flow
+      projects:
+        - name: FlowCover
+          url: http://www.chaosinmotion.com/flowcover.html
+        - name: iCarousel
+          url: https://github.com/nicklockwood/iCarousel
+        - name: OpenFlow
+          url: https://github.com/thefaj/OpenFlow
+
     - name: Crash Reports
       projects:
         - name: Bugsense
@@ -170,9 +188,11 @@ categories:
 
     - name: Forms
       projects:
+        - name: IBAForms
+          url: https://github.com/ittybittydude/IBAForms
         - name: BPForms
           url: https://github.com/bpoplauschi/BPForms
-          
+
     - name: Graphics
       projects:
         - name: core-plot
@@ -181,6 +201,8 @@ categories:
           url: https://github.com/Jawbone/JBChartView
         - name: iOSPlot
           url: https://github.com/honcheng/iOSPlot
+        - name: PowerPlot
+          url: http://powerplot.nua-schroers.de
 
     - name: Grid Views
       projects:
@@ -190,13 +212,6 @@ categories:
           url: https://github.com/gmoledina/GMGridView
         - name: KKGridView
           url: https://github.com/kolinkrewinkel/KKGridView
-          
-    - name: Game Engines
-      projects:
-        - name: Cocos2d
-          url: http://www.cocos2d-iphone.org
-        - name: Sparrow
-          url: http://gamua.com/sparrow/
 
     - name: IDE
       projects:
@@ -297,6 +312,15 @@ categories:
         - name: Reachability
           url: https://github.com/tonymillion/Reachability
           
+    - name: Physics
+      projects:
+        - name: Box2D
+          url: http://box2d.org
+        - name: Bullet
+          url: https://github.com/bulletphysics/bullet3
+        - name: Cocos2d
+          url: http://www.cocos2d-iphone.org
+          
     - name: PDF
       projects:
         - name: Haru
@@ -338,6 +362,15 @@ categories:
       projects:
         - name: RestKit
           url: http://restkit.org
+          
+    - name: RSS
+      projects:
+        - name: FeedParser
+          url: https://github.com/kballard/feedparser
+        - name: MWFeedParser
+          url: https://github.com/mwaterfall/MWFeedParser
+        - name: TouchRSS
+          url: https://github.com/TouchCode/TouchRSS
     
     - name: Security
       projects:
@@ -393,6 +426,8 @@ categories:
           url: https://github.com/bitmapdata/MSCellAccessory
         - name: MTBlockTableView
           url: https://github.com/mysterioustrousers/MTBlockTableView
+        - name: TISwipeableTableView
+          url: https://github.com/thermogl/TISwipeableTableView
     
     - name: Testing
       projects:
