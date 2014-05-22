@@ -1,6 +1,23 @@
 
 categories:
 
+    - name: Analytics
+      projects:
+        - name: Google Analytics
+          url: https://developers.google.com/analytics/devguides/collection/ios/resources
+          
+    - name: BDD
+      projects:
+        - name: Kiwi
+          url: https://github.com/kiwi-bdd/Kiwi
+        - name: Specta
+          url: https://github.com/specta/specta
+          
+    - name: Browsers
+      projects:
+        - name: TSMiniWebBrowser
+          url: https://github.com/tonisalae/TSMiniWebBrowser
+          
     - name: Caching
       projects:
         - name: rs/SDURLCache
@@ -12,6 +29,13 @@ categories:
       projects:
         - name: iCarousel
           url: https://github.com/nicklockwood/iCarousel
+
+    - name: Code Documentation
+      projects:
+        - name: appledoc
+          url: https://github.com/tomaz/appledoc
+        - name: CocoaDocs
+          url: http://cocoadocs.org
           
     - name: Crash Reports
       projects:
@@ -40,6 +64,13 @@ categories:
         - name: CocoaPods
           url: http://cocoapods.org
 
+    - name: Formatting
+      projects:
+        - name: FormatterKit
+          url: https://github.com/mattt/FormatterKit
+        - name: TransformerKit
+          url: https://github.com/mattt/TransformerKit
+          
     - name: Graphics
       projects:
         - name: core-plot
@@ -47,6 +78,8 @@ categories:
           
     - name: Image Loaders
       projects:
+        - name: FastImageCache
+          url: https://github.com/path/FastImageCache
         - name: SDWebImage
           url: https://github.com/rs/SDWebImage
 
@@ -64,15 +97,36 @@ categories:
         - name: NSJSONSerialization
           url: https://developer.apple.com/library/ios/documentation/foundation/reference/nsjsonserialization_class/Reference/Reference.html
           
+    - name: Keychain
+      projects:
+        - name: SSKeychain
+          url: https://github.com/soffes/sskeychain
+          
     - name: Logging
       projects:
         - name: CocoaLumberjack
           url: https://github.com/CocoaLumberjack/CocoaLumberjack
+          
+    - name: Mathematics
+      projects:
+        - name: DDMathParser
+          url: https://github.com/davedelong/DDMathParser
 
     - name: Networking
       projects:
         - name: AFNetworking
           url: https://github.com/afnetworking/afnetworking
+        - name: CocoaAsyncSocket
+          url: https://github.com/robbiehanson/CocoaAsyncSocket
+        - name: Reachability
+          url: https://github.com/tonymillion/Reachability
+          
+    - name: PDF
+      projects:
+        - name: Haru
+          url: http://libharu.org
+        - name: PDFKitten
+          url: https://github.com/KurtCode/PDFKitten
           
     - name: Progress Indicators
       projects:
@@ -88,6 +142,17 @@ categories:
       projects:
         - name: ViewDeck
           url: https://github.com/Inferis/ViewDeck
+    
+    - name: Social Networks
+      projects:
+        - name: DETweetComposeViewController
+          url: https://github.com/doubleencore/DETweetComposeViewController
+        - name: Facebook SDK for iOS
+          url: https://github.com/facebook/facebook-ios-sdk
+        - name: ShareKit
+          url: http://getsharekit.com
+        - name: Unofficial Twitter SDK
+          url: https://github.com/lloydsparkes/unoffical-twitter-sdk
           
     - name: SVG
       projects:
@@ -98,6 +163,17 @@ categories:
         
     - name: Testing
       projects:
+        - name: Bwoken
+          url: https://github.com/bendyworks/bwoken
+        - name: Calabash
+          url: https://github.com/calabash/calabash-ios
+        - name: Frank
+          url: https://github.com/moredip/Frank
+        - name: Zucchini
+          url: http://www.zucchiniframework.org
+
+    - name: Testing Platforms
+      projects:
         - name: TestFlight
           url: https://testflightapp.com
           
@@ -106,6 +182,23 @@ categories:
         - name: SocketRocket
           url: https://github.com/square/SocketRocket
     
+    - name: Xcode plugins
+      projects:
+        - name: Alcatraz
+          url: https://github.com/supermarin/Alcatraz
+        - name: HOStringSense-for-Xcode
+          url: https://github.com/holtwick/HOStringSense-for-Xcode
+        - name: KFCocoaPodsPlugin
+          url: https://github.com/ricobeck/KFCocoaPodsPlugin
+        - name: KSImageNamed-Xcode
+          url: https://github.com/ksuther/KSImageNamed-Xcode
+        - name: VVDocumenter-Xcode
+          url: https://github.com/onevcat/VVDocumenter-Xcode
+        - name: XcodeColors
+          url: https://github.com/robbiehanson/XcodeColors
+        - name: Xcode-Snippets
+          url: https://github.com/mattt/Xcode-Snippets
+          
     - name: XML
       projects:
         - name: TouchXML
