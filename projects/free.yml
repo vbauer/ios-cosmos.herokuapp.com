@@ -43,6 +43,15 @@ categories:
         - name: Specta
           url: https://github.com/specta/specta
 
+    - name: Barcodes
+      projects:
+        - name: iOS7-BarcodeScanner
+          url: https://github.com/jpwidmer/iOS7-BarcodeScanner
+        - name: ZBar
+          url: http://zbar.sourceforge.net
+        - name: ZXingObjC
+          url: https://github.com/TheLevelUp/ZXingObjC
+          
     - name: Blur Effects
       projects:
         - name: BlurryModalSegue
@@ -157,6 +166,8 @@ categories:
           url: https://github.com/magicalpanda/MagicalRecord
         - name: NLCoreData
           url: https://github.com/jksk/NLCoreData
+        - name: VPPCoreData
+          url: https://github.com/vicpenap/VPPCoreData
 
     - name: Dialogs
       projects:
@@ -217,6 +228,8 @@ categories:
       projects:
         - name: JetBrains AppCode
           url: http://www.jetbrains.com/objc/
+        - name: XCode
+          url: https://developer.apple.com/xcode/
 
     - name: Image Loaders
       projects:
@@ -256,7 +269,7 @@ categories:
         - name: SSKeychain
           url: https://github.com/soffes/sskeychain
 
-    - name: KVO
+    - name: FRP
       projects:
         - name: ReactiveCocoa
           url: https://github.com/ReactiveCocoa/ReactiveCocoa
