@@ -115,6 +115,8 @@ categories:
           url: https://developer.apple.com/library/mac/documentation/cocoa/conceptual/coredata/cdProgrammingGuide.html
         - name: FileMD5Hash
           url: https://github.com/JoeKun/FileMD5Hash
+        - name: entropydb
+          url: https://code.google.com/p/entropydb/
         - name: FMDB
           url: https://github.com/ccgus/fmdb
         - name: iActiveRecord
@@ -123,6 +125,11 @@ categories:
           url: https://github.com/magicalpanda/MagicalRecord
         - name: NLCoreData
           url: https://github.com/jksk/NLCoreData
+
+    - name: Dialogs
+      projects:
+        - name: QuickDialog
+          url: https://github.com/escoz/QuickDialog
           
     - name: Debugging
       projects:
@@ -161,6 +168,15 @@ categories:
         - name: iOSPlot
           url: https://github.com/honcheng/iOSPlot
 
+    - name: Grid Views
+      projects:
+        - name: AQGridView
+          url: https://github.com/AlanQuatermain/AQGridView
+        - name: GMGridView
+          url: https://github.com/gmoledina/GMGridView
+        - name: KKGridView
+          url: https://github.com/kolinkrewinkel/KKGridView
+          
     - name: Game Engines
       projects:
         - name: Cocos2d
@@ -184,8 +200,12 @@ categories:
       projects:
         - name: CoreImage
           url: https://developer.apple.com/library/mac/documentation/GraphicsImaging/Reference/CoreImagingRef/_index.html
+        - name: Filtrr
+          url: https://github.com/OmidH/Filtrr
         - name: GPUImage
           url: https://github.com/BradLarson/GPUImage
+        - name: MGImageUtilities
+          url: https://github.com/mattgemmell/MGImageUtilities
         - name: NYXImagesKit
           url: https://github.com/Nyx0uf/NYXImagesKit
         - name: XBImageFilters
@@ -193,6 +213,8 @@ categories:
 
     - name: JSON
       projects:
+        - name: bsjsonadditions
+          url: https://github.com/blakeseely/bsjsonadditions
         - name: json-framework
           url: https://github.com/stig/json-framework/
         - name: JSONKit
@@ -236,6 +258,8 @@ categories:
           url: https://developers.google.com/maps/documentation/ios/start
         - name: MapBox
           url: https://www.mapbox.com/mapbox-ios-sdk/
+        - name: OCMapView
+          url: https://github.com/yinkou/OCMapView
         - name: REMarkerClusterer
           url: https://github.com/romaonthego/REMarkerClusterer
         - name: VPPMap
@@ -272,6 +296,8 @@ categories:
       projects:
         - name: MBProgressHUD
           url: https://github.com/jdg/MBProgressHUD
+        - name: SVProgressHUD
+          url: https://github.com/samvermette/SVProgressHUD
     
     - name: Pull To Refresh
       projects:
@@ -312,10 +338,17 @@ categories:
           url: https://github.com/hellozimi/HCYoutubeParser
         - name: ShareKit
           url: http://getsharekit.com
+        - name: twitter-text-objc
+          url: https://github.com/twitter/twitter-text-objc
         - name: Unofficial Twitter SDK
           url: https://github.com/lloydsparkes/unoffical-twitter-sdk
         - name: VKontakte
           url: https://github.com/VKCOM/vk-ios-sdk
+    
+    - name: Status Bars
+      projects:
+        - name: MTStatusBarOverlay
+          url: https://github.com/myell0w/MTStatusBarOverlay
           
     - name: SVG
       projects:
@@ -324,6 +357,13 @@ categories:
         - name: SVGQuartzRenderer
           url: https://github.com/splashdust/SVGQuartzRenderer
 
+    - name: Tab Bars
+      projects:
+        - name: JMTabView
+          url: https://github.com/jasonmorrissey/JMTabView
+        - name: TabBarKit
+          url: https://github.com/davidmorford/TabBarKit
+    
     - name: Testing
       projects:
         - name: Bwoken
@@ -359,6 +399,8 @@ categories:
       projects:
         - name: APUtils
           url: https://github.com/andrei512/APUtils
+        - name: cooliris-toolkit
+          url: https://code.google.com/p/cooliris-toolkit/
         - name: NimbusKit
           url: https://github.com/jverkoey/nimbus
         - name: SSToolkit
