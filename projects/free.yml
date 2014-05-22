@@ -29,6 +29,11 @@ categories:
       projects:
         - name: iCarousel
           url: https://github.com/nicklockwood/iCarousel
+          
+    - name: Changelog
+      projects:
+        - name: TWSReleaseNotesView
+          url: https://github.com/iGriever/TWSReleaseNotesView/
 
     - name: Code Documentation
       projects:
@@ -66,6 +71,10 @@ categories:
       projects:
         - name: DCIntrospect
           url: https://github.com/domesticcatsoftware/DCIntrospect
+        - name: PonyDebugger
+          url: https://github.com/square/PonyDebugger
+        - name: SimulatorRemoteNotifications
+          url: https://github.com/acoomans/SimulatorRemoteNotifications/
           
     - name: Dependency Managment
       projects:
@@ -78,6 +87,11 @@ categories:
           url: https://github.com/mattt/FormatterKit
         - name: TransformerKit
           url: https://github.com/mattt/TransformerKit
+
+    - name: Forms
+      projects:
+        - name: BPForms
+          url: https://github.com/bpoplauschi/BPForms
           
     - name: Graphics
       projects:
@@ -116,6 +130,16 @@ categories:
       projects:
         - name: SSKeychain
           url: https://github.com/soffes/sskeychain
+    
+    - name: Labels
+      projects:
+        - name: TTTAttributedLabel
+          url: https://github.com/mattt/TTTAttributedLabel
+          
+    - name: Layouts
+      projects:
+        - name: Masonry
+          url: https://github.com/cloudkite/Masonry
           
     - name: Logging
       projects:
@@ -201,8 +225,12 @@ categories:
           url: https://github.com/bendyworks/bwoken
         - name: Calabash
           url: https://github.com/calabash/calabash-ios
+        - name: Expecta
+          url: https://github.com/specta/expecta
         - name: Frank
           url: https://github.com/moredip/Frank
+        - name: OCMock
+          url: https://github.com/erikdoe/ocmock
         - name: Zucchini
           url: http://www.zucchiniframework.org
 
@@ -210,7 +238,23 @@ categories:
       projects:
         - name: TestFlight
           url: https://testflightapp.com
-          
+
+    - name: Toolkits
+      projects:
+        - name: NimbusKit
+          url: https://github.com/jverkoey/nimbus
+        - name: SSToolkit
+          url: https://github.com/soffes/sstoolkit
+        - name: BlocksKit
+          url: https://github.com/zwaldowski/BlocksKit
+        - name: APUtils
+          url: https://github.com/andrei512/APUtils
+
+    - name: Tools
+      projects:
+        - name: xctool
+          url: https://github.com/facebook/xctool
+
     - name: WebSockets
       projects:
         - name: SocketRocket

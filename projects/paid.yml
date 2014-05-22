@@ -14,3 +14,8 @@ categories:
           url: http://try.crashlytics.com
         - name: Crittercism
           url: http://www.crittercism.com
+    
+    - name: Performance Monitoring
+      projects:
+        - name: New Relic
+          url: http://newrelic.com
