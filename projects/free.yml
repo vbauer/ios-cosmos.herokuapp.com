@@ -39,11 +39,19 @@ categories:
           
     - name: Crash Reports
       projects:
+        - name: Crashlytics
+          url: http://try.crashlytics.com
         - name: HockeyKit
           url: http://hockeykit.net
+        - name: PLCrashReporter
+          url: https://www.plcrashreporter.org
+        - name: QuincyKit
+          url: http://quincykit.net
           
     - name: Database
       projects:
+        - name: CoreData
+          url: https://developer.apple.com/library/mac/documentation/cocoa/conceptual/coredata/cdProgrammingGuide.html
         - name: FMDB
           url: https://github.com/ccgus/fmdb
         - name: MagicalRecord
@@ -75,6 +83,13 @@ categories:
       projects:
         - name: core-plot
           url: https://code.google.com/p/core-plot/
+        - name: iOSPlot
+          url: https://github.com/honcheng/iOSPlot
+
+    - name: Game Engines
+      projects:
+        - name: Cocos2d
+          url: http://www.cocos2d-iphone.org
           
     - name: Image Loaders
       projects:
@@ -107,6 +122,15 @@ categories:
         - name: CocoaLumberjack
           url: https://github.com/CocoaLumberjack/CocoaLumberjack
           
+    - name: Maps
+      projects:
+        - name: ADClusterMapView
+          url: https://github.com/applidium/ADClusterMapView
+        - name: CCHMapClusterController
+          url: https://github.com/choefele/CCHMapClusterController/
+        - name: REMarkerClusterer
+          url: https://github.com/romaonthego/REMarkerClusterer
+          
     - name: Mathematics
       projects:
         - name: DDMathParser
@@ -132,6 +156,16 @@ categories:
       projects:
         - name: MBProgressHUD
           url: https://github.com/jdg/MBProgressHUD
+    
+    - name: Pull To Refresh
+      projects:
+        - name: SVPullToRefresh
+          url: https://github.com/samvermette/SVPullToRefresh
+    
+    - name: Ratings
+      projects:
+        - name: iRate
+          url: https://github.com/nicklockwood/iRate
           
     - name: REST
       projects:
@@ -201,5 +235,7 @@ categories:
           
     - name: XML
       projects:
+        - name: NSXMLParser
+          url: https://developer.apple.com/library/mac/documentation/cocoa/reference/foundation/Classes/NSXMLParser_Class/Reference/Reference.html
         - name: TouchXML
           url: https://github.com/TouchCode/TouchXML
