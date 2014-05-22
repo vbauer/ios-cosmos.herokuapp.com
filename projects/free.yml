@@ -13,6 +13,10 @@ categories:
     
     - name: Audio
       projects:
+        - name: AudioStreamer
+          url: https://github.com/mattgallagher/AudioStreamer
+        - name: Finch
+          url: https://github.com/zoul/Finch
         - name: GVMusicPlayerController
           url: https://github.com/gangverk/GVMusicPlayerController
         - name: MusicPlayerViewController
@@ -34,22 +38,30 @@ categories:
       projects: 
         - name: BlocksKit
           url: https://github.com/zwaldowski/BlocksKit
-        - name: MTBlockTableView
-          url: https://github.com/mysterioustrousers/MTBlockTableView
         - name: UIAlertView-Blocks
           url: https://github.com/jivadevoe/UIAlertView-Blocks
           
     - name: Browsers
       projects:
+        - name: iOS-OnionBrowser
+          url: https://github.com/mtigas/iOS-OnionBrowser
+        - name: PBWebViewController
+          url: https://github.com/kmikael/PBWebViewController
+        - name: SVWebViewController
+          url: https://github.com/samvermette/SVWebViewController
         - name: TSMiniWebBrowser
           url: https://github.com/tonisalae/TSMiniWebBrowser
           
     - name: Caching
       projects:
+        - name: EGOCache
+          url: https://github.com/enormego/EGOCache
         - name: rs/SDURLCache
           url: https://github.com/rs/SDURLCache
         - name: steipete/SDURLCache
           url: https://github.com/steipete/SDURLCache
+        - name: TMCache
+          url: https://github.com/tumblr/TMCache
           
     - name: Calendars
       projects:
@@ -72,6 +84,8 @@ categories:
       projects:
         - name: Dropbox SDK
           url: https://www.dropbox.com/developers/core/sdks/ios
+        - name: ownCloud
+          url: https://github.com/owncloud/ios-library
           
     - name: Code Documentation
       projects:
@@ -287,10 +301,12 @@ categories:
       projects:
         - name: Haru
           url: http://libharu.org
-        - name: PDFKitten
-          url: https://github.com/KurtCode/PDFKitten
         - name: iPhonePDF
           url: https://github.com/akisute/iPhonePDF
+        - name: PDFKitten
+          url: https://github.com/KurtCode/PDFKitten
+        - name: vfr/Reader
+          url: https://github.com/vfr/Reader
           
     - name: Progress Indicators
       projects:
@@ -305,9 +321,16 @@ categories:
           url: https://github.com/samvermette/SVPullToRefresh
         - name: EGOTableViewPullRefresh
           url: https://github.com/enormego/EGOTableViewPullRefresh
+          
+    - name: Purchases
+      projects:
+        - name: MKStoreKit
+          url: https://github.com/MugunthKumar/MKStoreKit
 
     - name: Ratings
       projects:
+        - name: appirater
+          url: https://github.com/arashpayan/appirater
         - name: iRate
           url: https://github.com/nicklockwood/iRate
           
@@ -363,6 +386,13 @@ categories:
           url: https://github.com/jasonmorrissey/JMTabView
         - name: TabBarKit
           url: https://github.com/davidmorford/TabBarKit
+          
+    - name: Table Views
+      projects:
+        - name: MSCellAccessory
+          url: https://github.com/bitmapdata/MSCellAccessory
+        - name: MTBlockTableView
+          url: https://github.com/mysterioustrousers/MTBlockTableView
     
     - name: Testing
       projects:
@@ -374,6 +404,10 @@ categories:
           url: https://github.com/specta/expecta
         - name: Frank
           url: https://github.com/moredip/Frank
+        - name: gh-unit
+          url: https://github.com/gh-unit/gh-unit
+        - name: KIF
+          url: https://github.com/kif-framework/KIF
         - name: OCMock
           url: https://github.com/erikdoe/ocmock
         - name: Zucchini
