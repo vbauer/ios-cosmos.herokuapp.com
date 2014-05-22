@@ -25,7 +25,14 @@ categories:
         - name: steipete/SDURLCache
           url: https://github.com/steipete/SDURLCache
           
-    - name: Carousels
+    - name: Calendars
+      projects:
+        - name: Kal
+          url: https://github.com/klazuka/Kal
+        - name: ABCalendarPicker
+          url: https://github.com/k06a/ABCalendarPicker
+
+    - name: CoverFlow
       projects:
         - name: iCarousel
           url: https://github.com/nicklockwood/iCarousel
@@ -52,6 +59,13 @@ categories:
           url: https://www.plcrashreporter.org
         - name: QuincyKit
           url: http://quincykit.net
+        - name: HockeyKit
+          url: http://hockeykit.net/
+
+    - name: Curl/Flip Effects
+      projects:
+        - name: XBPageCurl
+          url: https://github.com/xissburg/XBPageCurl
           
     - name: Database
       projects:
@@ -97,8 +111,15 @@ categories:
       projects:
         - name: core-plot
           url: https://code.google.com/p/core-plot/
+        - name: JBChartView
+          url: https://github.com/Jawbone/JBChartView
         - name: iOSPlot
           url: https://github.com/honcheng/iOSPlot
+
+    - name: IDE
+      projects:
+        - name: JetBrains AppCode
+          url: http://www.jetbrains.com/objc/
 
     - name: Game Engines
       projects:
@@ -131,16 +152,18 @@ categories:
         - name: SSKeychain
           url: https://github.com/soffes/sskeychain
     
-    - name: Labels
+    - name: KVO
       projects:
-        - name: TTTAttributedLabel
-          url: https://github.com/mattt/TTTAttributedLabel
+        - name: ReactiveCocoa
+          url: https://github.com/ReactiveCocoa/ReactiveCocoa
           
     - name: Layouts
       projects:
         - name: Masonry
           url: https://github.com/cloudkite/Masonry
-          
+        - name: NUI
+          url: https://github.com/noveogroup/ios-nui
+
     - name: Logging
       projects:
         - name: CocoaLumberjack
@@ -154,6 +177,13 @@ categories:
           url: https://github.com/choefele/CCHMapClusterController/
         - name: REMarkerClusterer
           url: https://github.com/romaonthego/REMarkerClusterer
+        - name: Google Maps SDK
+          url: https://developers.google.com/maps/documentation/ios/start
+        - name: Yandex Map Kit
+          url: https://github.com/yandexmobile/yandexmapkit-ios
+        - name: MapBox
+          url: https://www.mapbox.com/mapbox-ios-sdk/
+
           
     - name: Mathematics
       projects:
@@ -162,8 +192,14 @@ categories:
 
     - name: Networking
       projects:
+        - name: RestKit
+          url: http://restkit.org/
         - name: AFNetworking
           url: https://github.com/afnetworking/afnetworking
+        - name: SDWebImage
+          url: https://github.com/rs/SDWebImage
+        - name: SocketRocket
+          url: https://github.com/square/SocketRocket
         - name: CocoaAsyncSocket
           url: https://github.com/robbiehanson/CocoaAsyncSocket
         - name: Reachability
@@ -175,6 +211,8 @@ categories:
           url: http://libharu.org
         - name: PDFKitten
           url: https://github.com/KurtCode/PDFKitten
+        - name: iPhonePDF
+          url: https://github.com/akisute/iPhonePDF
           
     - name: Progress Indicators
       projects:
@@ -186,6 +224,11 @@ categories:
         - name: SVPullToRefresh
           url: https://github.com/samvermette/SVPullToRefresh
     
+    - name: Pull To Refresh
+      projects:
+        - name: EGOTableViewPullRefresh
+          url: https://github.com/enormego/EGOTableViewPullRefresh
+
     - name: Ratings
       projects:
         - name: iRate
@@ -211,6 +254,8 @@ categories:
           url: http://getsharekit.com
         - name: Unofficial Twitter SDK
           url: https://github.com/lloydsparkes/unoffical-twitter-sdk
+        - name: VKontakte
+          url: https://github.com/VKCOM/vk-ios-sdk
           
     - name: SVG
       projects:
@@ -218,6 +263,15 @@ categories:
           url: https://github.com/reklis/SVGKit
         - name: SVGQuartzRenderer
           url: https://github.com/splashdust/SVGQuartzRenderer
+        
+    - name: Text
+      projects:
+        - name: TTTAttributedLabel
+          url: https://github.com/mattt/TTTAttributedLabel
+        - name: OHAttributedLabel
+          url: https://github.com/AliSoftware/OHAttributedLabel
+        - name: DTCoreText
+          url: https://github.com/Cocoanetics/DTCoreText
         
     - name: Testing
       projects:
