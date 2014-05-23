@@ -154,8 +154,6 @@ categories:
       projects:
         - name: CoreData
           url: https://developer.apple.com/library/mac/documentation/cocoa/conceptual/coredata/cdProgrammingGuide.html
-        - name: FileMD5Hash
-          url: https://github.com/JoeKun/FileMD5Hash
         - name: entropydb
           url: https://code.google.com/p/entropydb/
         - name: FMDB
@@ -197,6 +195,11 @@ categories:
         - name: TransformerKit
           url: https://github.com/mattt/TransformerKit
 
+    - name: File system
+      projects:
+        - name: FileMD5Hash
+          url: https://github.com/JoeKun/FileMD5Hash
+
     - name: Forms
       projects:
         - name: IBAForms
@@ -228,8 +231,6 @@ categories:
 
     - name: IDE
       projects:
-        - name: JetBrains AppCode
-          url: http://www.jetbrains.com/objc/
         - name: XCode
           url: https://developer.apple.com/xcode/
 
@@ -454,8 +455,10 @@ categories:
           url: https://github.com/twitter/twitter-text-objc
         - name: Unofficial Twitter SDK
           url: https://github.com/lloydsparkes/unoffical-twitter-sdk
-        - name: VKontakte
+        - name: VK iOS SDK
           url: https://github.com/VKCOM/vk-ios-sdk
+        - name: VK iOS SDK (alternative)
+          url: https://github.com/AndrewShmig/Vkontakte-iOS-SDK-LV
     
     - name: Status Bars
       projects:

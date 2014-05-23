@@ -14,6 +14,11 @@ categories:
           url: http://try.crashlytics.com
         - name: Crittercism
           url: http://www.crittercism.com
+
+    - name: IDE
+      projects:
+        - name: JetBrains AppCode
+          url: http://www.jetbrains.com/objc/
     
     - name: Performance Monitoring
       projects:
