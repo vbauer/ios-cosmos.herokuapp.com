@@ -26,3 +26,8 @@ categories:
           url: http://coronalabs.com
         - name: Unity
           url: http://iosframeworks.com/frameworks/unity
+          
+    - name: Ratings
+      projects:
+        - name: Apptentive
+          url: http://www.apptentive.com

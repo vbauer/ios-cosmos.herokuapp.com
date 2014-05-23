@@ -212,6 +212,8 @@ categories:
           url: https://github.com/Jawbone/JBChartView
         - name: iOSPlot
           url: https://github.com/honcheng/iOSPlot
+        - name: MPPlot
+          url: https://github.com/MP0w/MPPlot
         - name: PowerPlot
           url: http://powerplot.nua-schroers.de
 
@@ -363,11 +365,26 @@ categories:
       projects:
         - name: MKStoreKit
           url: https://github.com/MugunthKumar/MKStoreKit
+          
+    - name: QR Codes
+      projects:
+        - name: ZBar
+          url: http://zbar.sourceforge.net
+        - name: ZXing
+          url: https://github.com/zxing/zxing/
 
     - name: Ratings
       projects:
         - name: appirater
           url: https://github.com/arashpayan/appirater
+        - name: AMRatingControl
+          url: https://github.com/amseddi/AMRatingControl
+        - name: ASStarRatingView
+          url: https://github.com/yanguango/ASStarRatingView
+        - name: DLStarRating
+          url: https://github.com/dlinsin/DLStarRating
+        - name: EDStarRating
+          url: https://github.com/erndev/EDStarRating
         - name: iRate
           url: https://github.com/nicklockwood/iRate
           
@@ -387,11 +404,37 @@ categories:
     
     - name: Security
       projects:
+        - name: Application Password
+          url: https://github.com/project-imas/app-password
+        - name: Encrypted Core Data SQLite Store
+          url: https://github.com/project-imas/encrypted-core-data
+        - name: forced-inlining
+          url: https://github.com/project-imas/forced-inlining
         - name: oauthconsumer
           url: https://code.google.com/p/oauthconsumer/
+        - name: PasscodeCheck Security Control
+          url: https://github.com/project-imas/passcode-check
+        - name: project-imas/ssl-conservatory
+          url: https://github.com/project-imas/ssl-conservatory
+        - name: security-checkanalytics
+          url: https://github.com/project-imas/security-check
+        - name: Secure Foundation
+          url: https://github.com/project-imas/securefoundation
+        - name: Secure Memory
+          url: https://github.com/project-imas/memory-security
+        - name: Single Sign On System
+          url: https://github.com/project-imas/single-sign-on
           
     - name: Sliding Panels
       projects:
+        - name: DDSlidingPanels
+          url: https://github.com/deem0n/DDSlidingPanels
+        - name: ECSlidingViewController
+          url: https://github.com/ECSlidingViewController/ECSlidingViewController
+        - name: JASidePanels
+          url: https://github.com/gotosleep/JASidePanels
+        - name: RASlideInViewController
+          url: https://github.com/ra1028/RASlideInViewController
         - name: ViewDeck
           url: https://github.com/Inferis/ViewDeck
     
