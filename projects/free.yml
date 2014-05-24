@@ -75,6 +75,13 @@ categories:
         - name: TSMiniWebBrowser
           url: https://github.com/tonisalae/TSMiniWebBrowser
 
+    - name: Buttons
+      projects:
+        - name: LRGlowingButton
+          url: https://github.com/lightroomapps/LRGlowingButton
+        - name: MRoundedButton
+          url: https://github.com/mrcrow/MRoundedButton
+
     - name: Caching
       projects:
         - name: EGOCache
@@ -122,6 +129,13 @@ categories:
           url: https://github.com/kartech/colorpicker
         - name: RSColorPicker
           url: https://github.com/RSully/RSColorPicker
+          
+    - name: Concurrency
+      projects:
+        - name: ADBActors
+          url: https://github.com/albertodebortoli/ADBActors
+        - name: TheKitchenSync
+          url: https://github.com/Cue/TheKitchenSync
 
     - name: Cover Flow
       projects:
@@ -174,6 +188,8 @@ categories:
 
     - name: Debugging
       projects:
+        - name: CCDebugHelper
+          url: https://github.com/ChilliCoders/CCDebugHelper
         - name: DCIntrospect
           url: https://github.com/domesticcatsoftware/DCIntrospect
         - name: PonyDebugger
@@ -219,6 +235,8 @@ categories:
           url: https://github.com/MP0w/MPPlot
         - name: PowerPlot
           url: http://powerplot.nua-schroers.de
+        - name: PNChart
+          url: https://github.com/kevinzhow/PNChart
 
     - name: Grid Views
       projects:
@@ -272,13 +290,17 @@ categories:
         - name: SSKeychain
           url: https://github.com/soffes/sskeychain
 
-    - name: FRP
+    - name: Functional Programming
       projects:
+        - name: Asterism
+          url: https://github.com/robb/Asterism
         - name: ReactiveCocoa
           url: https://github.com/ReactiveCocoa/ReactiveCocoa
 
     - name: Layouts
       projects:
+        - name: CUSLayout
+          url: https://github.com/JJMM/CUSLayout
         - name: Masonry
           url: https://github.com/cloudkite/Masonry
         - name: NUI
@@ -354,7 +376,12 @@ categories:
           url: https://github.com/jdg/MBProgressHUD
         - name: SVProgressHUD
           url: https://github.com/samvermette/SVProgressHUD
-
+          
+    - name: PSD
+      projects:
+        - name: MMLayershots
+          url: https://github.com/vpdn/MMLayershots
+    
     - name: Pull To Refresh
       projects:
         - name: SVPullToRefresh
@@ -529,6 +556,8 @@ categories:
           url: https://github.com/andrei512/APUtils
         - name: cooliris-toolkit
           url: https://code.google.com/p/cooliris-toolkit/
+        - name: CWFoundation
+          url: https://github.com/jayway/CWFoundation
         - name: NimbusKit
           url: https://github.com/jverkoey/nimbus
         - name: SSToolkit
