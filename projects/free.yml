@@ -7,7 +7,7 @@ categories:
           url: http://www.cocos2d-iphone.org
         - name: Sparrow
           url: http://gamua.com/sparrow/
-          
+
     - name: 3D Game Engines
       projects:
         - name: Bullet
@@ -19,12 +19,12 @@ categories:
       projects:
         - name: Canvas
           url: https://github.com/CanvasPod/Canvas
-          
+
     - name: Analytics
       projects:
         - name: Google Analytics
           url: https://developers.google.com/analytics/devguides/collection/ios/resources
-    
+
     - name: Audio
       projects:
         - name: AudioStreamer
@@ -35,7 +35,7 @@ categories:
           url: https://github.com/gangverk/GVMusicPlayerController
         - name: MusicPlayerViewController
           url: https://github.com/BeamApp/MusicPlayerViewController
-          
+
     - name: BDD
       projects:
         - name: Kiwi
@@ -51,19 +51,19 @@ categories:
           url: http://zbar.sourceforge.net
         - name: ZXingObjC
           url: https://github.com/TheLevelUp/ZXingObjC
-          
+
     - name: Blur Effects
       projects:
         - name: BlurryModalSegue
           url: https://github.com/Citrrus/BlurryModalSegue
-          
+
     - name: Blocks
-      projects: 
+      projects:
         - name: BlocksKit
           url: https://github.com/zwaldowski/BlocksKit
         - name: UIAlertView-Blocks
           url: https://github.com/jivadevoe/UIAlertView-Blocks
-          
+
     - name: Browsers
       projects:
         - name: iOS-OnionBrowser
@@ -74,7 +74,7 @@ categories:
           url: https://github.com/samvermette/SVWebViewController
         - name: TSMiniWebBrowser
           url: https://github.com/tonisalae/TSMiniWebBrowser
-          
+
     - name: Caching
       projects:
         - name: EGOCache
@@ -85,14 +85,14 @@ categories:
           url: https://github.com/steipete/SDURLCache
         - name: TMCache
           url: https://github.com/tumblr/TMCache
-          
+
     - name: Calendars
       projects:
         - name: Kal
           url: https://github.com/klazuka/Kal
         - name: ABCalendarPicker
           url: https://github.com/k06a/ABCalendarPicker
-          
+
     - name: Changelog
       projects:
         - name: TWSReleaseNotesView
@@ -104,7 +104,7 @@ categories:
           url: https://www.dropbox.com/developers/core/sdks/ios
         - name: ownCloud
           url: https://github.com/owncloud/ios-library
-          
+
     - name: Code Documentation
       projects:
         - name: appledoc
@@ -149,7 +149,7 @@ categories:
       projects:
         - name: XBPageCurl
           url: https://github.com/xissburg/XBPageCurl
-    
+
     - name: Database
       projects:
         - name: CoreData
@@ -171,7 +171,7 @@ categories:
       projects:
         - name: QuickDialog
           url: https://github.com/escoz/QuickDialog
-          
+
     - name: Debugging
       projects:
         - name: DCIntrospect
@@ -180,7 +180,7 @@ categories:
           url: https://github.com/square/PonyDebugger
         - name: SimulatorRemoteNotifications
           url: https://github.com/acoomans/SimulatorRemoteNotifications/
-          
+
     - name: Dependency Managment
       projects:
         - name: CocoaPods
@@ -266,7 +266,7 @@ categories:
           url: https://github.com/johnezang/JSONKit
         - name: NSJSONSerialization
           url: https://developer.apple.com/library/ios/documentation/foundation/reference/nsjsonserialization_class/Reference/Reference.html
-          
+
     - name: Keychain
       projects:
         - name: SSKeychain
@@ -292,7 +292,7 @@ categories:
           url: https://github.com/aharren/LibComponentLogging-Core/
         - name: NSLogger
           url: https://github.com/fpillet/NSLogger
-          
+
     - name: Maps
       projects:
         - name: ADClusterMapView
@@ -327,7 +327,7 @@ categories:
           url: https://github.com/robbiehanson/CocoaAsyncSocket
         - name: Reachability
           url: https://github.com/tonymillion/Reachability
-          
+
     - name: Physics
       projects:
         - name: Box2D
@@ -336,7 +336,7 @@ categories:
           url: https://github.com/bulletphysics/bullet3
         - name: Cocos2d
           url: http://www.cocos2d-iphone.org
-          
+
     - name: PDF
       projects:
         - name: Haru
@@ -347,26 +347,26 @@ categories:
           url: https://github.com/KurtCode/PDFKitten
         - name: vfr/Reader
           url: https://github.com/vfr/Reader
-          
+
     - name: Progress Indicators
       projects:
         - name: MBProgressHUD
           url: https://github.com/jdg/MBProgressHUD
         - name: SVProgressHUD
           url: https://github.com/samvermette/SVProgressHUD
-    
+
     - name: Pull To Refresh
       projects:
         - name: SVPullToRefresh
           url: https://github.com/samvermette/SVPullToRefresh
         - name: EGOTableViewPullRefresh
           url: https://github.com/enormego/EGOTableViewPullRefresh
-          
+
     - name: Purchases
       projects:
         - name: MKStoreKit
           url: https://github.com/MugunthKumar/MKStoreKit
-          
+
     - name: QR Codes
       projects:
         - name: ZBar
@@ -388,12 +388,12 @@ categories:
           url: https://github.com/erndev/EDStarRating
         - name: iRate
           url: https://github.com/nicklockwood/iRate
-          
+
     - name: REST
       projects:
         - name: RestKit
           url: http://restkit.org
-          
+
     - name: RSS
       projects:
         - name: FeedParser
@@ -402,7 +402,7 @@ categories:
           url: https://github.com/mwaterfall/MWFeedParser
         - name: TouchRSS
           url: https://github.com/TouchCode/TouchRSS
-    
+
     - name: Security
       projects:
         - name: Application Password
@@ -425,7 +425,7 @@ categories:
           url: https://github.com/project-imas/memory-security
         - name: Single Sign On System
           url: https://github.com/project-imas/single-sign-on
-          
+
     - name: Sliding Panels
       projects:
         - name: DDSlidingPanels
@@ -438,7 +438,7 @@ categories:
           url: https://github.com/ra1028/RASlideInViewController
         - name: ViewDeck
           url: https://github.com/Inferis/ViewDeck
-    
+
     - name: Social Networks
       projects:
         - name: AFAmazonS3Client
@@ -459,12 +459,12 @@ categories:
           url: https://github.com/VKCOM/vk-ios-sdk
         - name: VK iOS SDK (alternative)
           url: https://github.com/AndrewShmig/Vkontakte-iOS-SDK-LV
-    
+
     - name: Status Bars
       projects:
         - name: MTStatusBarOverlay
           url: https://github.com/myell0w/MTStatusBarOverlay
-          
+
     - name: SVG
       projects:
         - name: SVGKit
@@ -478,7 +478,7 @@ categories:
           url: https://github.com/jasonmorrissey/JMTabView
         - name: TabBarKit
           url: https://github.com/davidmorford/TabBarKit
-          
+
     - name: Table Views
       projects:
         - name: MSCellAccessory
@@ -487,7 +487,7 @@ categories:
           url: https://github.com/mysterioustrousers/MTBlockTableView
         - name: TISwipeableTableView
           url: https://github.com/thermogl/TISwipeableTableView
-    
+
     - name: Testing
       projects:
         - name: Bwoken
@@ -545,7 +545,7 @@ categories:
       projects:
         - name: SocketRocket
           url: https://github.com/square/SocketRocket
-    
+
     - name: Xcode plugins
       projects:
         - name: Alcatraz
@@ -562,7 +562,7 @@ categories:
           url: https://github.com/robbiehanson/XcodeColors
         - name: Xcode-Snippets
           url: https://github.com/mattt/Xcode-Snippets
-          
+
     - name: XML
       projects:
         - name: NSXMLParser
