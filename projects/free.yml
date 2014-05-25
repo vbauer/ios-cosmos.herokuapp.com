@@ -18,13 +18,18 @@ categories:
     - name: Animations
       projects:
         - name: Canvas
-          url: https://github.com/CanvasPod/Canvas
+          url: http://canvaspod.io
 
     - name: Analytics
       projects:
         - name: Google Analytics
           url: https://developers.google.com/analytics/devguides/collection/ios/resources
 
+    - name: Aspects
+      projects:
+        - name: Aspects
+          url: https://github.com/steipete/Aspects
+          
     - name: Audio
       projects:
         - name: AudioStreamer
@@ -54,6 +59,8 @@ categories:
 
     - name: Blur Effects
       projects:
+        - name: ANBlurredImageView
+          url: https://github.com/aaronn/ANBlurredImageView
         - name: BlurryModalSegue
           url: https://github.com/Citrrus/BlurryModalSegue
 
@@ -77,6 +84,8 @@ categories:
 
     - name: Buttons
       projects:
+        - name: DKCircleButton
+          url: https://github.com/kronik/DKCircleButton
         - name: LRGlowingButton
           url: https://github.com/lightroomapps/LRGlowingButton
         - name: MRoundedButton
@@ -136,6 +145,8 @@ categories:
           url: https://github.com/albertodebortoli/ADBActors
         - name: TheKitchenSync
           url: https://github.com/Cue/TheKitchenSync
+        - name: PromiseKit
+          url: http://promisekit.org
 
     - name: Cover Flow
       projects:
@@ -543,6 +554,11 @@ categories:
         - name: DTCoreText
           url: https://github.com/Cocoanetics/DTCoreText
 
+    - name: Text Views
+      projects:
+        - name: ACEExpandableTextCell
+          url: https://github.com/acerbetti/ACEExpandableTextCell
+          
     - name: Testing Platforms
       projects:
         - name: TestFlight
