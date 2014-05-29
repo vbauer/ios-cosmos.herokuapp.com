@@ -36,6 +36,8 @@ categories:
       projects:
         - name: PSPDFKit
           url: http://pspdfkit.com
+        - name: PDFViewer SDK for Mobiles
+          url: http://www.radaeepdf.com
           
     - name: Ratings
       projects:
