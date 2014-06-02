@@ -433,7 +433,8 @@ categories:
       projects:
         - name: RestKit
           url: http://restkit.org
-
+        - name: MMRecord
+          url: https://github.com/mutualmobile/MMRecord
     - name: RSS
       projects:
         - name: FeedParser
