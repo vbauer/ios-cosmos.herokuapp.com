@@ -29,7 +29,7 @@ categories:
       projects:
         - name: Aspects
           url: https://github.com/steipete/Aspects
-          
+
     - name: Audio
       projects:
         - name: AudioStreamer
@@ -138,7 +138,7 @@ categories:
           url: https://github.com/kartech/colorpicker
         - name: RSColorPicker
           url: https://github.com/RSully/RSColorPicker
-          
+
     - name: Concurrency
       projects:
         - name: ADBActors
@@ -295,6 +295,8 @@ categories:
           url: https://github.com/johnezang/JSONKit
         - name: NSJSONSerialization
           url: https://developer.apple.com/library/ios/documentation/foundation/reference/nsjsonserialization_class/Reference/Reference.html
+        - name: Mantle
+          url: https://github.com/Mantle/Mantle
 
     - name: Keychain
       projects:
@@ -387,12 +389,12 @@ categories:
           url: https://github.com/jdg/MBProgressHUD
         - name: SVProgressHUD
           url: https://github.com/samvermette/SVProgressHUD
-          
+
     - name: PSD
       projects:
         - name: MMLayershots
           url: https://github.com/vpdn/MMLayershots
-    
+
     - name: Pull To Refresh
       projects:
         - name: SVPullToRefresh
@@ -431,7 +433,8 @@ categories:
       projects:
         - name: RestKit
           url: http://restkit.org
-
+        - name: MMRecord
+          url: https://github.com/mutualmobile/MMRecord
     - name: RSS
       projects:
         - name: FeedParser
@@ -558,7 +561,7 @@ categories:
       projects:
         - name: ACEExpandableTextCell
           url: https://github.com/acerbetti/ACEExpandableTextCell
-          
+
     - name: Testing Platforms
       projects:
         - name: TestFlight
