@@ -6,6 +6,11 @@ categories:
         - name: Flurry
           url: http://www.flurry.com
 
+    - name: Continuous Integration
+      projects:
+        - name: Greenhouse
+          url: http://greenhouseci.com
+
     - name: Crash Reports
       projects:
         - name: Bugsense
