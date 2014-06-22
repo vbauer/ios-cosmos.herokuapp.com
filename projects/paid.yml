@@ -48,3 +48,8 @@ categories:
       projects:
         - name: Apptentive
           url: http://www.apptentive.com
+    
+    - name: Video Streaming 
+      projects:
+        - name: Kickflip 
+          url: http://kickflip.io
