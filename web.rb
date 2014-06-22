@@ -2,6 +2,7 @@ require 'sinatra'
 require 'yaml'
 require 'set'
 require 'rack/cache'
+require 'xml-sitemap'
 
 module Rack
   class CommonLogger
@@ -66,20 +67,26 @@ class Application < Sinatra::Base
         @not_found_page ||= erb :not_found
     end
 
-    get "/" do
-        @free_projects_page ||= render_categories(:free, settings.data.free.categories)
-    end
+    get "/" do @free_page ||= render_categories(:free, settings.data.free.categories) end
+    get "/paid" do @paid_page ||= render_categories(:paid, settings.data.paid.categories) end
 
-    get "/paid" do
-        @paid_projects_page ||= render_categories(:paid, settings.data.paid.categories)
+    get "/sitemap.xml" do
+        content_type 'text/xml'
+        @sitemap ||= render_sitemap
     end
-
 
     def render_categories(type, categories)
         erb(:projects, :locals => {:type => type,
                                    :paid => settings.data.paid.count,
                                    :free => settings.data.free.count,
                                    :categories => categories})
+    end
+
+    def render_sitemap()
+        map = XmlSitemap::Map.new('ios-cosmos.com') do |m|
+            m.add '/paid', :period => :hourly
+        end
+        map.render
     end
 
 end
