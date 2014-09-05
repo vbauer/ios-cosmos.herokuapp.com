@@ -512,6 +512,8 @@ categories:
           url: https://github.com/reklis/SVGKit
         - name: SVGQuartzRenderer
           url: https://github.com/splashdust/SVGQuartzRenderer
+        - name: TGDrawSvgPathView
+          url: https://github.com/Tibolte/TGDrawSvgPathView
 
     - name: Tab Bars
       projects:
