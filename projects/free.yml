@@ -229,10 +229,16 @@ categories:
 
     - name: Forms
       projects:
-        - name: IBAForms
-          url: https://github.com/ittybittydude/IBAForms
         - name: BPForms
           url: https://github.com/bpoplauschi/BPForms
+        - name: EZForm
+          url: https://github.com/chrismiles/EZForm
+        - name: FXForms
+          url: https://github.com/nicklockwood/FXForms
+        - name: IBAForms
+          url: https://github.com/ittybittydude/IBAForms
+        - name: XLForm
+          url: https://github.com/xmartlabs/XLForm
 
     - name: Graphics
       projects:
