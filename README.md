@@ -17,7 +17,7 @@ If you want to make this world a little bit better you can:
 
 To install needed dependencies, run this commands in the project directory:
 ```sh
-rvm use 2.1.2
+rvm use 2.4.3
 bundle install
 ```
 
